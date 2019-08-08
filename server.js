@@ -20,7 +20,7 @@ app.use("/", express.static(path.join(__dirname, "public")));
 mongoose.set('useNewUrlParser', true);
 mongoose.set('useFindAndModify', false);
 mongoose.set('useCreateIndex', true);
-var conn = mongoose.connect(config.config, config.mongo);
+var conn = mongoose.connect(config.config);
 
 conn.then((db) => {
     console.log("Connected...")
