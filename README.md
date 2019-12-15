@@ -19,7 +19,7 @@ Then you will see the site is up at port 8080 and mongoose is up at 27017
 
 then check it from here :
 
-https://localhost:8080
+http://localhost:8080
 
 After that Create a Issue and start working on your feature !
 
