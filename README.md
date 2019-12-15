@@ -1,5 +1,8 @@
 # **Official Server of WR Notes**
 
+Site is live at :
+    
+https://wrnotes.live
 
 **How to Contribute ?** 
 
