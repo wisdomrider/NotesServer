@@ -29,7 +29,7 @@ Create Merge Request After Your Changes is Completed !
     
 To Run your app after some changes run this command
 
-    `docker-compose build && docker-compose up`
+    docker-compose build && docker-compose up
     
     
 Thanks !
