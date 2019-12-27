@@ -1,6 +1,6 @@
 # **Official Server of WR Notes**
 
-[![GitHub contributors](https://img.shields.io/github/contributors/notesserver/notesserver.svg)](https://GitHub.com/wisdomrider/notesserver/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/wisdomrider/notesserver.svg)](https://GitHub.com/wisdomrider/notesserver/graphs/contributors/)
 
 Site is live at :
     
